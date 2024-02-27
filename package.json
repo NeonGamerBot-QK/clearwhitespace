@@ -1,0 +1,14 @@
+{
+  "name": "clearwhitespace",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Neon <neon@saahild.com>",
+  "description": "A simple module to remove whitespace from a string",
+  "keywords": [
+    "whitespace",
+    "clear",
+    "remove"
+  ],
+  "repository": "https://github.com/NeonGamerBot-QK/clearwhitespace.git"
+}
